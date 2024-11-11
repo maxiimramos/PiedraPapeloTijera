@@ -1,2 +1,2 @@
-# PiedraPapeloTijera
-Mi aplicación del tradicional juego Piedra Papel o Tijera contra la máquina.
+# Invernadero Virtual
+Aplicación que hace que las plantas crezcan y suban hasta el techo.
